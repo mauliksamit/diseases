@@ -21,7 +21,12 @@ Xt = ∑ Ci,i+1                                Ci,i+1 represents the number of n
 alpha = reporting rate
 The Susceptibility time series obtained by these components was then normalized with respect to corresponding population data
 
+
+My recreation:
 <img width="1218" height="756" alt="image" src="https://github.com/user-attachments/assets/c836f61d-7b93-4231-a6d1-d5a8ebf6c573" />
+
+Recreation by Jonathan Horrocks & Chris T. Bauch:
+
 <img width="745" height="498" alt="image" src="https://github.com/user-attachments/assets/a0bf4e1f-548d-4e6a-9cc8-3d2fcc782078" />
 
 
@@ -34,10 +39,13 @@ Z t, t+Δt   represents the number of infections that occur during the interval 
 St represents the number of susceptible people at time t
 It represents the number of infected people at time t
 
+My recreation:
 <img width="1184" height="765" alt="image" src="https://github.com/user-attachments/assets/0e94e743-7572-4b7a-9acf-bb299adc63c1" />
 
+Recreation by Jonathan Horrocks & Chris T. Bauch:
 <img width="887" height="665" alt="image" src="https://github.com/user-attachments/assets/b364a2ae-2061-4863-98ba-d5207ceb162f" />
 
+Discovered SINDy model for Chickenpox using I, S and β as features upon fitting a 3rd degree polynomial<img width="1862" height="81" alt="image" src="https://github.com/user-attachments/assets/6a40b09d-fff5-4528-a67b-ae49f41dacee" />
 
 (S)' = -0.426 + -3.013 S + 3664.936 I + 0.132 β + 138.714 S^2 + -14078.294 S I + -1.615 S β + 494436.607 I^2 + -482.233 I β + -0.005 β^2 + -681.426 S^3 + -55393.210 S^2 I + 4.212 S^2 β + 1620.533 S I β + 0.037 S β^2 + -24834.715 I^2 β + 12.238 I β^2
 (I)' = 0.039 + -0.713 S + -103.092 I + -0.005 β + 4.140 S^2 + 390.311 S I + 0.061 S β + 8.631 I β + -8.082 S^3 + -0.174 S^2 β + 1.013 S I β + -0.001 S β^2 + -0.235 I β^2
