@@ -1,4 +1,4 @@
-**chickenpox_sindy.py ** implements the SINDy algorithm to model the observed rates of Chickenpox infection rates in Onatrio, Canada, using differential equations through sparse regression.
+chickenpox_sindy.py implements the SINDy algorithm to model the observed rates of Chickenpox infection rates in Onatrio, Canada, using differential equations through sparse regression.
 Result: Derives differential equations that govern the spread of Chickenpox using the SIR model.
 
 **Set up:**
@@ -25,7 +25,7 @@ The Susceptibility time series obtained by these components was then normalized 
 **My recreation ⬇️:**
 <img width="1218" height="756" alt="image" src="https://github.com/user-attachments/assets/c836f61d-7b93-4231-a6d1-d5a8ebf6c573" />
 
-Recreation by Jonathan Horrocks & Chris T. Bauch:
+**Recreation by Jonathan Horrocks & Chris T. Bauch ⬇️:**
 
 <img width="745" height="498" alt="image" src="https://github.com/user-attachments/assets/a0bf4e1f-548d-4e6a-9cc8-3d2fcc782078" />
 
@@ -122,7 +122,7 @@ The trends depicted by the SINDy model are consistent with the peaks, ordering, 
 
 <img width="858" height="500" alt="image" src="https://github.com/user-attachments/assets/1e6a9ec6-ed8a-40b9-8dda-95b24ca54360" />
 
-** (Blue is SINDy & Yellow is Real Data) ⬇️: **
+(Blue is SINDy & Yellow is Real Data) ⬇️:
 <img width="1128" height="467" alt="image" src="https://github.com/user-attachments/assets/f79d5463-86ea-40bc-a7fa-50e81cc8552c" />
 
 
