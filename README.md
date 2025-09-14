@@ -59,14 +59,14 @@ Chickenpox model inference:
 (S)’ has a high dependence on terms involving I, especially interactive terms like SI, I^2, S^2 I , S I β , and I^2 β  (Highest on I^2 and S^2 I)
 
 
-Comparison of Real Chickenpox Data and Rescaled SINDy data:
+Comparison of Real Chickenpox Data and Rescaled SINDy data (Red is SINDy & Blue is Real Data):
 
 <img width="1723" height="281" alt="image" src="https://github.com/user-attachments/assets/2f151faf-f768-4e28-9316-f3ca4ea2ea60" />
 
 The trends depicted by the SINDy model are consistent with the peaks, ordering, and the cyclic nature of real infection data, which suggests that SINDy understand the dynamics of Chickenpox infections between 1946 and 1967 in Ontario
 
 
-Comparison of Real Susceptibility Data and Rescaled SINDy data:
+Comparison of Real Susceptibility Data and Rescaled SINDy data  (Red is SINDy & Blue is Real Data)::
 <img width="1666" height="358" alt="image" src="https://github.com/user-attachments/assets/678af324-1a5c-4036-8ac7-79dd54066f88" />
 
 
@@ -103,7 +103,7 @@ Rubella model inferences:
 
 
 
-Comparison of Real Rubella Data and Rescaled SINDy data
+Comparison of Real Rubella Data and Rescaled SINDy data  (Red is SINDy & Blue is Real Data):
 
 <img width="1136" height="662" alt="image" src="https://github.com/user-attachments/assets/104db247-0966-475b-906c-46c5a66cf771" />
 
@@ -111,13 +111,13 @@ Comparison of Real Rubella Data and Rescaled SINDy data
 The trends depicted by the SINDy model are consistent with the peaks, ordering, and the cyclic nature of real infection data, which suggests that SINDy understand the dynamics of Rubella infections between 1946 and 1967 in Ontario
 
 
-Comparison of Real Susceptibility Data and Rescaled SINDy data using a Savitzky-Golay filter:
+Comparison of Real Susceptibility Data and Rescaled SINDy data using a Savitzky-Golay filter  (Red is SINDy & Blue is Real Data):
 
 
 <img width="1120" height="662" alt="image" src="https://github.com/user-attachments/assets/2cc1de4c-6ecb-4384-9f58-79b0c65caee7" />
 
 
-Comparison of result with that of Jonathan Horrocks & Chris T. Bauch:
+Comparison of result with that of Jonathan Horrocks & Chris T. Bauch   (Red is SINDy & Blue is Real Data):
 
 
 <img width="858" height="500" alt="image" src="https://github.com/user-attachments/assets/1e6a9ec6-ed8a-40b9-8dda-95b24ca54360" />
